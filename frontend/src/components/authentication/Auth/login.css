@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.Container{
+    display: block;
+    align-items: center;
+    flex: 1;
+    padding: 40px 40px;
+    margin: 40px 40px;
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+}
+.container_form{
+    align-items: center;
+    padding: 20px;
+
+}
+.box{
+    padding: 10px 50px;
+    margin: 10px;
+}
+
+.heading{
+    text-align: center;
+}
